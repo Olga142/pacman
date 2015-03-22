@@ -1,0 +1,6 @@
+C:\Users\Андрей Каликин\Documents\Visual Studio 2013\Projects\Visual C#\Универ\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
+C:\Users\Андрей Каликин\Documents\Visual Studio 2013\Projects\Visual C#\Универ\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Каликин\Documents\Visual Studio 2013\Projects\Visual C#\Универ\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Users\Андрей Каликин\Documents\Visual Studio 2013\Projects\Visual C#\Универ\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Users\Андрей Каликин\Documents\Visual Studio 2013\Projects\Visual C#\Универ\LevelEditor\LevelEditor\obj\Debug\LevelEditor.exe
+C:\Users\Андрей Каликин\Documents\Visual Studio 2013\Projects\Visual C#\Универ\LevelEditor\LevelEditor\obj\Debug\LevelEditor.pdb
